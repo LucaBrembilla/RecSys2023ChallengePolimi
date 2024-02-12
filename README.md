@@ -48,8 +48,8 @@ Our best recommender is a hybrid. The following steps led us to our best score:
 
 # Team 
 
-![Me](https://github.com/BigDataSeeker)&![Luca Brembilla](https://github.com/LucaBrembilla)
+[Me](https://github.com/BigDataSeeker)&[Luca Brembilla](https://github.com/LucaBrembilla)
 
 # Credits
 
-The repo is based on the codes from ![the repo of Maurizio Dacrema](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi)
+The repo is based on the codes from [the repo of Maurizio Dacrema](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi)
