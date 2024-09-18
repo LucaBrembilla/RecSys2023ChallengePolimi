@@ -1,10 +1,7 @@
 
 # Recommender Systems 2023/24 Challenge Polimi on Kaggle
 
-![image](https://camo.githubusercontent.com/26cfe506e888fdbf57f20d77caa768a145317a0d7f3ced7cc0975e4fd0d9b41e/68747470733a2f2f692e696d6775722e636f6d2f746d396d53754d2e706e67)
-![image](https://camo.githubusercontent.com/670646257dd8e70c90a93598b9721e5646cd7388487289aa050c63547765e748/68747470733a2f2f692e696d6775722e636f6d2f6d5062335162642e676966)
-
-This repo contains the code, data and the resulted models used in the  ![RecSys Challenge 2023/24 A. Y.](https://www.kaggle.com/competitions/recommender-system-2023-challenge-polimi/overview) at PoliMi that was hold at kaggle.
+This repo contains the code, data and the resulted models used in the  [RecSys Challenge 2023/24 A. Y.](https://www.kaggle.com/competitions/recommender-system-2023-challenge-polimi/overview) at PoliMi that was hold at kaggle.
 The goal of the competition was to biuld a recommender system model for books recommendations providing Top-10 ranking for each user. The ratings in the train data are implicit only URM was given. 
 
 # Results
@@ -48,7 +45,7 @@ Our best recommender is a hybrid. The following steps led us to our best score:
 
 # Team 
 
-[Me](https://github.com/BigDataSeeker)&[Luca Brembilla](https://github.com/LucaBrembilla)
+[Me](https://github.com/LucaBrembilla) and [Max](https://github.com/BigDataSeeker)
 
 # Credits
 
